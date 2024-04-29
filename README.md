@@ -4,6 +4,12 @@ Practice repo to test new connections.
 <img src="https://user-images.githubusercontent.com/98788821/209611209-4e4d2200-64ae-43ab-9024-aabe2b2f6dfc.gif" width="100" height="80"/>
 
 #### About Git & GitHub
+  <div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
+  </div>
+
+---
 
 Git is used worldwide to help developers track changes while working on different parts of the same project. GitHub is a web application that can be integrated with Git. Together, users can host, organize, explore, and collaborate on code with teams and the developer community at large. Next, dive into GitHub Copilot, a generative AI that can help streamline your workflow.
 
