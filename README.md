@@ -1,6 +1,8 @@
 ## Git_practice 👨‍💻
 Practice repo to test new connections.
 
+Hello Git and GitHub
+
 <img src="https://user-images.githubusercontent.com/98788821/209611209-4e4d2200-64ae-43ab-9024-aabe2b2f6dfc.gif" width="100" height="80"/>
 
 #### About Git & GitHub
