@@ -9,7 +9,6 @@ Hello Git and GitHub
   <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
-  <img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
   </div>
 
 ---
