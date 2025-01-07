@@ -95,6 +95,5 @@ def factorial(n):
 #
 
 <div align="center">
-    Hey, you made it to the bottom!
-    Take a cookie 🍪
+    If you made it this far, take a cookie 🍪
 </div>
